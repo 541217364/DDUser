@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>嘀嘀点呗.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>95E0DCCE05A19472D404073BDD99B3148196CAC6</string>
+				<key>dateExpires</key>
+				<string>2019/4/26</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>QW4T6B6L7X.com.didiwaimai.www</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>QW4T6B6L7X</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>QW4T6B6L7X.com.didiwaimai.www</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>嘀嘀点呗.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>5593c463-84ce-4556-9f72-fb77c91a79e9</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.didiwaimai.www</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>QW4T6B6L7X</string>
+				<key>name</key>
+				<string>Hangzhou Didi Network Technology Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
